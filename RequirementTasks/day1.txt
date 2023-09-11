@@ -1,0 +1,13 @@
+Requirement1:
+Get the basic details for new voter ID such as name, address, email, assembly number, contact and print the same with acknowledgment stating that request for voter card has submitted successfully
+
+Requirement2:
+Get the basic account details such as AccountNumber, AccountHolder, AccountBalance in the beginning then get the 4th input the amount desired to withdraw and subtract desired amount with accountbalance finally print account details with updated value
+
+eg:
+accountholder: Razak Mohamed
+accountNumber:67887678
+accountBalance:4300
+desiredAmount:4000
+
+Razak Mohamed has the balance of 300 in 67887678
