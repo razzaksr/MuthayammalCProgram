@@ -1,0 +1,10 @@
+1. Get the basic details of TaxPayer name, profession and income
+find the tax to be paid by the taxpayer and display it.
+
+Eg:
+til 5LPA no tax
+5-10LPA 5%
+10-15LPA 10%
+15-20LPA 20%
+20LPA-30LPA 25%
+30LPA above 30%
