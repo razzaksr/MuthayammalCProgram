@@ -1,0 +1,5 @@
+1. Get the year of experience from 10 employees and 
+find how many employees can match with 
+company requirement of 5-7 experience
+
+2. Get the 40 numbers as input and print the sum of each pair
