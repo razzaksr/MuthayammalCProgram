@@ -1,0 +1,19 @@
+1. Calculate Factorial Using Nested Loops
+2. Display a Chessboard Pattern:
+Create a program that prints an 8x8 chessboard pattern 
+using nested loops. You can use 'X' and 'O' to represent 
+alternating squares.
+Example:
+XOXOXOXO
+OXOXOXOX
+XOXOXOXO
+OXOXOXOX
+XOXOXOXO
+OXOXOXOX
+XOXOXOXO
+OXOXOXOX
+3. Menu driven program to check eligibility avail options such as
+a.Personal Loan -  Cibil >750 and profession is salaried
+b.Credit Card   -  Cibil >800 and profession is salaried or business
+c.Home Loan     -  Cibil >700 and land value is 10,00,000
+each of the above should be implemented as functions
